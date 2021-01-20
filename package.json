@@ -4,7 +4,7 @@
   "description": "Demo App to demonstrate the usage of microfrontends",
   "author": "michsindlinger",
   "license": "MIT",
-  "repository": "michsindlinger/michaelsindlinger-microfrontend-demo-app",
+  "repository": "michsindlinger/michaelsindlinger-microfrontend-demo-app.git",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
